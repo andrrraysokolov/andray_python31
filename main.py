@@ -4,4 +4,4 @@ type_str = "Строки пишутся в кавычках"
 type_bool_one = True # булевы значения истина (правда)
 type_bool_two = False # булевы значения ложь
 type_none = None
-print(type_int*10)
+print(type_int*20)
