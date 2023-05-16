@@ -12,4 +12,11 @@
 # a = float(a) #float
 # print(a * 2,type(a))
 
+# b = "Привет"
+# print(b,type(b))
+# b = int(b)
+# print (b,type(b))
+
+z = input("Введите текст: ")  #str - по умолчанию является строкой
+print(z, type(z))
 
