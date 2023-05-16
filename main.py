@@ -5,11 +5,11 @@
 #type_bool_two = False # булевы значения ложь
 #type_none = None
 
-a = 123
-print(a * 2,type(a)) #int
-a = str(a)
-print (a * 2,type(a)) #str
-a = float(a) #float
-print(a * 2,type(a))
+# a = 123
+# print(a * 2,type(a)) #int
+# a = str(a)
+# print (a * 2,type(a)) #str
+# a = float(a) #float
+# print(a * 2,type(a))
 
 
