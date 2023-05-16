@@ -17,6 +17,15 @@
 # b = int(b)
 # print (b,type(b))
 
-z = input("Введите текст: ")  #str - по умолчанию является строкой
-print(z, type(z))
+# z = float(input("Введите число - мы умножим его на 2: "))
+# print (z * 2)
 
+print("Заполните информацию")
+myName = input("Введите имя: ")
+myAge = int(input("Введите возраст: "))
+myCountry = input("Ваше гражданство: ")
+print("")
+print("Информация о пользователе:")
+print("Имя", myName)
+print("Ваш возраст, умноженный на 2:", myAge*2)
+print("Ваше гражданство:", myCountry)
