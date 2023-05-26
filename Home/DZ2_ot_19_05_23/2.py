@@ -23,7 +23,7 @@ if minnum > num3:
     minnum = num3
 else:
     minnum = minnum
-srednum = (num1 + num2 + num3)/2
+srednum = round(((num1 + num2 + num3)/3), 4)
 vybor = input("Выберите желаемую операцию:\n1 - Вывести наибольшее число из трёх\n2 - Вывести наименьшее число их трёх\n3 - Вывести среднеарифметическое трёх чисел\n")
 if vybor == "1":
     print(f"Наибольшее из введённых чисел: {maxnum}")

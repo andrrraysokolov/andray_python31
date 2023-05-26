@@ -7,4 +7,4 @@
 #  you’re busy making other plans”
 #  John Lennon
 
-print('"Life is what happens\n\t\b\bwhen\fyou’re busy making other plans"\f\b\b\bJohn Lennon.')
+print('"Life is what happens\n      when\n\t  you’re busy making other plans"\n\t\t\t\t      John Lennon.')
