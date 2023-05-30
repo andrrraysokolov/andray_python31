@@ -10,7 +10,7 @@ if str.isdigit(vvod) == True:
     elif vozrast >= 12 and vozrast < 18:
         print ("Вы являетесь подростком.")
     elif vozrast >= 18 and vozrast < 60:
-        print ("Вы являетесь взрослым.")
+        print ("Вы - взрослый.")
     elif vozrast >= 60 and vozrast < 115:
         print ("Вы являетесь пенсионером.")
     elif vozrast == 115:
